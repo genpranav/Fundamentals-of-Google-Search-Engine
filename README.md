@@ -1,5 +1,5 @@
 
-# Fundamentals of Google Search-Engine Explored using Maltab
+# Fundamentals of Google Search Engine Explored using Maltab
 
 In the persuit to gain a bird's eye understanding of the fundamental working of Google search Engine's background via visualizations, the following facts were were learnt. It includes exploration of background math(Linear Algebra) and breif coding concepts to acheive equivalent Matrix/Graph representions.
 
