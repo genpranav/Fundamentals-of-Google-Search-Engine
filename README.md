@@ -6,7 +6,7 @@ In the persuit to gain a bird's eye understanding of the fundamental working of 
   
 ## Documentation
 
-The Documentation of this project can be found [Here](https://github.com/genpranav/Fundamentals-of-Google-Search-Engine/blob/main/REPORT.pdf)
+The Documentation of this project can be found [Here](https://github.com/genpranav/Fundamentals-of-Google-Search-Engine/blob/main/Report.pdf)
 
   
 ## Run Locally
