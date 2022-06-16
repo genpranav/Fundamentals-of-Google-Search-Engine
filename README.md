@@ -1,32 +1,26 @@
 
-# Fundamentals-of-Google-Search-Engine
+# Fundamentals of Google Search-Engine Explored using Maltab
 
-Through this project I was able to gain a solid(not advanced) understanding of the fundamental working of Google search engine and visualized it using matrices in MATLAB. It includes exploration of background math(Linear Algebra and Graph representaion) and breif coding concepts to put it all together. I hope it helps you get a good start
+In the persuit to gain a bird's eye understanding of the fundamental working of Google search Engine's background via visualizations, the following facts were were learnt. It includes exploration of background math(Linear Algebra) and breif coding concepts to acheive equivalent Matrix/Graph representions.
 
   
 ## Documentation
 
-The Documentation of this project - [click here](https://github.com/genpranav/Fundamentals-of-Google-Search-Engine/blob/main/REPORT.pdf)
+The Documentation of this project can be found [Here](https://github.com/genpranav/Fundamentals-of-Google-Search-Engine/blob/main/REPORT.pdf)
 
   
 ## Run Locally
 
-As of now only local deployment is possible
+
+The MATLAB code file of the corresponding matrices in report can be found [Here](https://github.com/genpranav/Fundamentals-of-Google-Search-Engine/blob/main/demo.mlx)
 
 
-The MATLAB code file of the corresponding matrices in report, open and download
+Prerequisites
 
 
-[download here](https://github.com/genpranav/Fundamentals-of-Google-Search-Engine/blob/main/demo.mlx)
-
-
-Install Prerequisite
-
-
-MATLAB version with Appdesigner (project was created in MATLAB 9.9 / R2020b)
-You will also require the Image processing toolbox
-
+1. MATLAB (code was written in MATLAB 9.9 / R2020b)
 [download here](https://in.mathworks.com/downloads/web_downloads/)
+
 
 
 
@@ -34,7 +28,6 @@ You will also require the Image processing toolbox
 
 <details open>
 <summary>B.E.Pranav Kumaar</summary>
-Student ID @Amrita Vishwa Vidyapeetham - CB.EN.U4AIE20052
 
 :fire: [twitter](https://twitter.com/bepranavkumaar1)
 
