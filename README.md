@@ -1,7 +1,10 @@
 
 # Fundamentals of Google Search Engine Explored using Maltab
 
-In the persuit to gain a bird's eye understanding of the fundamental working of Google search Engine's background via visualizations, the following facts were were learnt. It includes exploration of background math(Linear Algebra) and breif coding concepts to acheive equivalent Matrix/Graph representions.
+This exploration was motivated by the curiosity to gain a bird's eye understanding of the fundamental working of Google search Engine's background via visualizations from a mathematical pov, some interesting facts were learned along the way. The reverse engineering approach taken by Rebbeca S.Wills served as the foundation for this understanding. Each of the functional attributes is cleverly achieved through elegant Linear Algebra manipulations of the base forms. The following are the highlights,
+1. Logical and Mathematical Analysis of the PageRank algorithm
+2. 0-vector fix, hopping fix, and PageRank score generation
+3. A simple code implementation to substantiate the observations
 
   
 ## Documentation
